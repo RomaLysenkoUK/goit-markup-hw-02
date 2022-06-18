@@ -8,23 +8,27 @@ body{
     font-size: 26px;
     line-height: 31px;
     letter-spacing: 0.03em;
+    text-decoration: none;
 }
 .nav-studia{
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 .nav-portfolio{
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     color: #2196F3;
+    text-decoration: none;
 }
 .nav-kont{
     font-weight: 500;
     font-size: 14px;
     line-height: 16px; 
+    text-decoration: none;
 }
 .email{
     color: #757575;
@@ -32,6 +36,7 @@ body{
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 .tel{
     color: #757575;
@@ -39,6 +44,7 @@ body{
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 button{
     background: #F5F4FA;
